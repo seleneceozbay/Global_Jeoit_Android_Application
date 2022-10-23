@@ -16,6 +16,6 @@ Konya Teknik Üniversitesi Harita Mühendisliği Bölümü Bitirme Tezi
 
 # NOT: İlgili uygulamanın kullandığı google API keyleri aşağıdaki linkten bakabilirsiniz.
 
-[Google API KEY Link 1](https://www.google.com)
-[Google API KEY Link 2](https://www.google.com)
-[Google API KEY Link 3](https://www.google.com)
+1. [Google API KEY Link 1](https://www.google.com)
+2. [Google API KEY Link 2](https://www.google.com)
+3. [Google API KEY Link 3](https://www.google.com)
