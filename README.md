@@ -16,6 +16,4 @@ GLOBAL JEOİT uygulaması, coğrafi koordinatları bilinen dünyanın her hangi 
 
 # NOT: İlgili uygulamanın kullandığı google API keyleri aşağıdaki linkten bakabilirsiniz.
 
-1. [Google API KEY Link 1](https://www.google.com)
-2. [Google API KEY Link 2](https://www.google.com)
-3. [Google API KEY Link 3](https://www.google.com)
+[Google API KEY Link 1](https://developers.google.com/maps/documentation/android/start#get-key)
