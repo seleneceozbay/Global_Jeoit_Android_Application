@@ -12,4 +12,10 @@ Konya Teknik Üniversitesi Harita Mühendisliği Bölümü Bitirme Tezi
 1. İlgili lokasyonun bilgisi
 2. baz bilgisi
 3. kullanıcı kayıt olabilir
-4. asdasd
+
+
+# NOT: İlgili uygulamanın kullandığı google API keyleri aşağıdaki linkten bakabilirsiniz.
+
+[Google API KEY Link 1](https://www.google.com)
+[Google API KEY Link 2](https://www.google.com)
+[Google API KEY Link 3](https://www.google.com)
