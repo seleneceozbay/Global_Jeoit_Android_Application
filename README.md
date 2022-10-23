@@ -4,14 +4,14 @@ Konya Teknik Üniversitesi Harita Mühendisliği Bölümü Bitirme Tezi
 
 ## Açıklama
 
-İlgili uygulama ..... işler yapabilmektedir. Android ile yazılmıştır. ....
+GLOBAL JEOİT uygulaması, coğrafi koordinatları bilinen dünyanın her hangi bir noktasında jeoit yüksekliğini hesaplamaya yarayan mobil uygulamadır.
+
 
 
 ## İşlevleri
 
-1. İlgili lokasyonun bilgisi
-2. baz bilgisi
-3. kullanıcı kayıt olabilir
+1. İlgili lokasyonun coğrafi koordinatları girilerek jeoit yüksekliğinin hesaplanması
+2. map üzerinden bir nokta seçilerek koordinat ve jeoit yüksekliği görülebilir
 
 
 # NOT: İlgili uygulamanın kullandığı google API keyleri aşağıdaki linkten bakabilirsiniz.
